@@ -9,7 +9,7 @@ public class ConnectionMysql {
 	public ConnectionMysql(){
 		this.database = "tasks";
 		this.user = "root";
-		this.password = "g3d1te2016";
+		this.password = "f3t2le1832";
 	}
 	
 	public ConnectionMysql(String database, String user, String password){
